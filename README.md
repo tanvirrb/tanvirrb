@@ -9,8 +9,6 @@
 
 - 👯 I’m looking to collaborate on **Open-source node.js projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/tanvirrb](https://github.com/tanvirrb)
-
 - 💬 Ask me about **node.js,JavaScript, Microservices**
 
 - 📫 How to reach me [@tanvironair](https://www.twitter.com/tanvironair)
