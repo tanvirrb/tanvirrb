@@ -5,9 +5,9 @@
         alt="tanvironair" src="https://img.shields.io/twitter/follow/tanvironair?logo=twitter&style=for-the-badge"/></a>
 </p>
 
-- 🔭 I’m currently working at [CramStack](https://cramstack.com/)
+- 🔭 Currently working at [CramStack](https://cramstack.com/)
 
-- 🌱 I’m currently learning **Serverless**
+- 🌱 Currently learning **Serverless**
 
 - 👯 I’m looking to collaborate on **Open-source node.js projects**
 
