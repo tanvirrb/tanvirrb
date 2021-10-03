@@ -5,7 +5,7 @@
         alt="tanvironair" src="https://img.shields.io/twitter/follow/tanvironair?logo=twitter&style=for-the-badge"/></a>
 </p>
 
-- 🔭 Currently working at [CramStack](https://cramstack.com/)
+- 🔭 Currently working at [Dorik](https://dorik.com/)
 
 - 🌱 Currently learning **Serverless**
 
