@@ -7,11 +7,11 @@
 
 - 🔭 Currently working at [Dorik](https://dorik.com/)
 
-- 🌱 Currently learning **Serverless**
+- 🌱 Currently learning **Full-text searching**
 
 - 👯 I’m looking to collaborate on **Open-source node.js projects**
 
-- 💬 Ask me about **node.js,JavaScript, Microservices**
+- 💬 Ask me about **node.js,JavaScript, Microservices, engineering culture, engineering leadership**
 
 - 📫 How to reach me [@tanvironair](https://www.twitter.com/tanvironair)
 
