@@ -7,7 +7,7 @@
 
 - 🔭 Currently working at [Dorik](https://dorik.com/)
 
-- 🌱 Currently learning **Full-text searching**
+- 🌱 Currently learning ***GoLang***
 
 - 👯 I’m looking to collaborate on **Open-source node.js projects**
 
