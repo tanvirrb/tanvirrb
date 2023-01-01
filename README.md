@@ -5,7 +5,7 @@
         alt="tanvironair" src="https://img.shields.io/twitter/follow/tanvironair?logo=twitter&style=for-the-badge"/></a>
 </p>
 
-- 🔭 Currently working at [Qalqul Engine](https://qalqul.com/)
+- 🔭 Currently <b>looking for a new opportunity</b>
 
 - 🌱 Currently learning ***GoLang***
 
