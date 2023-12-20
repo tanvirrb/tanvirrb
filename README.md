@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Tanvir</h1>
-<h3 align="center">A passionate backend developer from Bangladesh</h3>
+<h3 align="center">A passionate backend developer from Bangladesh, currently living in the UK</h3>
 
 <p align="left"><a href="https://twitter.com/tanvironair" target="blank"><img
         alt="tanvironair" src="https://img.shields.io/twitter/follow/tanvironair?logo=twitter&style=for-the-badge"/></a>
 </p>
 
-- 🔭 Currently <b>looking for a new opportunity</b>
-
 - 🌱 Currently learning ***GoLang***
 
 - 👯 I’m looking to collaborate on **Open-source node.js projects**
 
-- 💬 Ask me about **node.js,JavaScript, Microservices, engineering culture, engineering leadership**
+- 💬 Ask me about **node.js, JavaScript, Microservices, engineering culture, engineering leadership**
 
 - 📫 How to reach me [@tanvironair](https://www.twitter.com/tanvironair)
 
