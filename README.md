@@ -149,9 +149,10 @@
         <td><a href="https://www.github.com" target="_blank"><img alt="GitHub"
                                                                   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg"/></a>
         </td>
-        <td><a href="https://html.spec.whatwg.org/" target="_blank"><img alt="HTML5"
-                                                                         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-                                                                         title="HTML5"/></a></td>
+        <td><a href="https://go.dev/" target="_blank"><img alt="Go"
+                                                                         src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/go/go-original-wordmark.svg"
+                                                                         title="Go"/>
+        </a></td>
     </tr>
     </tbody>
 </table>
