@@ -68,6 +68,13 @@
                     src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/nestjs/nestjs-plain-wordmark.svg"
                     width="40"/> </a>
         </td>
+            <td>
+            <a href="https://www.java.com/en/" target="_blank"> <img
+                    alt="java"
+                    height="40"
+                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"
+                    width="40"/> </a>
+        </td>
         <td>
             <a
                     href="https://www.mongodb.com/" target="_blank"> <img
